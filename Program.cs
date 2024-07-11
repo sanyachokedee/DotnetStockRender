@@ -11,7 +11,10 @@ var builder = WebApplication.CreateBuilder(args);
 // For Entity Framework with Npgsql
 builder.Services.AddDbContext<ApplicationDbContext>(options => 
 {
-    options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection"));
+    // ทดสอบ Local
+    // options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection"));
+    // ทดสอบ 11-7-24 Render
+    options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnectionRender"));
 });
 
 // Adding Identity
