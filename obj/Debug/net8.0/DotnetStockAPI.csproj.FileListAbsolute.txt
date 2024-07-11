@@ -111,3 +111,5 @@ D:\002-DEV\049-Angular17_AND_DOTNET8-6-6-24\DotnetStockAPI\bin\Debug\net8.0\Micr
 D:\002-DEV\049-Angular17_AND_DOTNET8-6-6-24\DotnetStockAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 D:\002-DEV\049-Angular17_AND_DOTNET8-6-6-24\DotnetStockAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
 D:\002-DEV\049-Angular17_AND_DOTNET8-6-6-24\DotnetStockAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\002-DEV\049-Angular17_AND_DOTNET8-6-6-24\DotnetStockAPI\obj\Debug\net8.0\DotnetStockAPI.sourcelink.json
+D:\002-DEV\049-Angular17_AND_DOTNET8-6-6-24\DotnetStockAPI\bin\Debug\net8.0\DotnetStockAPI.staticwebassets.runtime.json

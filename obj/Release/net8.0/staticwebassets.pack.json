@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\002-DEV\\049-Angular17_AND_DOTNET8-6-6-24\\DotnetStockAPI\\wwwroot\\uploads\\0540c131-610c-4728-88d0-604adb495589.webp",
+      "PackagePath": "staticwebassets\\uploads\\0540c131-610c-4728-88d0-604adb495589.webp"
+    },
+    {
+      "Id": "D:\\002-DEV\\049-Angular17_AND_DOTNET8-6-6-24\\DotnetStockAPI\\wwwroot\\uploads\\20366825-5a8f-40f4-9881-d9484b15e086.webp",
+      "PackagePath": "staticwebassets\\uploads\\20366825-5a8f-40f4-9881-d9484b15e086.webp"
+    },
+    {
+      "Id": "D:\\002-DEV\\049-Angular17_AND_DOTNET8-6-6-24\\DotnetStockAPI\\wwwroot\\uploads\\365e0888-7c2f-46c8-8097-80489d32bb44.jpg",
+      "PackagePath": "staticwebassets\\uploads\\365e0888-7c2f-46c8-8097-80489d32bb44.jpg"
+    },
+    {
+      "Id": "D:\\002-DEV\\049-Angular17_AND_DOTNET8-6-6-24\\DotnetStockAPI\\wwwroot\\uploads\\56a82d54-ee45-42ff-a62d-80130216e4f1.webp",
+      "PackagePath": "staticwebassets\\uploads\\56a82d54-ee45-42ff-a62d-80130216e4f1.webp"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.DotnetStockAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.DotnetStockAPI.props",
+      "PackagePath": "build\\DotnetStockAPI.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.DotnetStockAPI.props",
+      "PackagePath": "buildMultiTargeting\\DotnetStockAPI.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.DotnetStockAPI.props",
+      "PackagePath": "buildTransitive\\DotnetStockAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
